@@ -1,5 +1,5 @@
 ## Hello, I am Adam C. MacKinnon! <br>
-### I am an aspiring Junior Web Developer with an entrepenurial spirit, relentless work ethic, and unparalleled ability to work with others.  I'm most comfortable working on the back-end of applications, but always on the look out to better my skills in any facet.
+### I am an aspiring Junior Web Developer with an entrepenurial spirit, relentless work ethic, and unparalleled ability to work with others.  I'm always on the look out to better my skills in any facet.
 
 <br>
 <a href="https://github.com/AdamCMacKinnon">
